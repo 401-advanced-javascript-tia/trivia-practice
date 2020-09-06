@@ -1,0 +1,25 @@
+{
+  "name": "trivia-practice",
+  "version": "1.0.0",
+  "description": "practice repo for 401 midterm",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-tia/trivia-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-tia/trivia-practice/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-tia/trivia-practice#readme"
+}
